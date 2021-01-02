@@ -1,4 +1,4 @@
-[https://pesalerno.github.io/seminario2020/](https://pesalerno.github.io/genetica-ago-2020/)
+[página web del curso](https://pesalerno.github.io/genetica2021/)
 
 # Genética | Enero 2021 | Ikiam
 
