@@ -1,0 +1,53 @@
+ 
+# Taller: genómica poblacional y Markdown
+
+
+ > **Fecha de entrega:** SABADO 29 agosto 4:00pm 
+ > 
+ > **FORMATO DE ENTREGA:** El proyecto debe ser entregado individualmente en formato `.md` y en `.pdf` (todos los editores MarkDown permiten exportar pdf). Copien y peguen el codigo Markdown de las proximas lineas para incluir en la entrega de su proyecto:  
+
+
+ 
+ --------------------
+ > 
+ > **AUTOR(es) DEL TALLER:** 
+ > 
+ > **DATOS DEL TALLER:**  
+ > 
+ 
+ ------------------------
+ 
+ 
+ **RESUMEN CORTO DEL TALLER:** en este taller hicimos a y b, y encontramos en general c. Abajo reportamos todos los detalles.
+ 
+ 
+ 
+ 
+ # primer subtitulo
+ 
+ 
+ Lo primero que hicimos fue esto y esto otro. Al correr esta linea de codigo: 
+ 
+ 	importar alguna matrix y hacer algo mas
+ 
+ Conseguimos hacer x, y, z. Luego, corrimos la siguiente linea de codigo: 
+ 
+ 	otra linea de codigo aca
+ 
+ y obtuvimos x, y. Ademas, reportamos el siguiente grafico: 
+ 
+  ![](direccion/exacta/a/la/foto/que/quieren/poner)
+
+ 
+ 
+ # segundo subtitulo
+ 
+ Luego, hicimos estas otras cosas. Alli, encontramos que ...... luego de que en `gglopt2` hicieramos esta otra cosa: 
+ 
+ 	cosa aqui
+ 
+ Entonces encontramos lo siguiente: 
+ 
+ ![](/Users/patriciasalerno/Documents/IKIAM/telesemestre-junio-2020/bioinfo/genetica/genetica-ago-2020/files/align-2.png)
+ 
+ 

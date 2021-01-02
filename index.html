@@ -1,0 +1,81 @@
+---
+layout: default
+title: {{ site.name }}
+---
+
+<div id="home">
+  <h1>Universidad Regional Amazónica IKIAM</h1>
+  
+	<br>
+	Bienvenidos al curso <b>Genética</b> del Segundo Período Académico 2020 (Ikiam), diseñado y dictado por PE Salerno, en el cual aprenderemos acerca de procesos moleculares
+	y tecnologías relacionadas a la genética de los organismos, con un enfoque particular en aplicaciones a estudios de 
+	ecología y biodiversidad.  <br><br>
+	
+	
+	
+	En esta página podrán encontrar toda la información acerca del curso, el syllabus, y cualquier otro documento y contenido
+	relevante. <b>Revísela con frecuencia para encontrar nuevas noticias y actualizaciones</b>. <br> <br>
+	
+	
+ 
+	<br><br>
+	-----------------
+	<br> 
+
+	
+	<b>LIBRO DEL CURSO:  </b> el curso estará basado principalmente en el libro de <b> <a href="https://drive.google.com/file/d/1EYHyd609xFUCAV4ZOnwjq01upw62ktgp/view?usp=sharing"> Conceptos de Genética de Klug</a></b>, el cual pueden descargar
+	 mediante su cuenta de correo electrónico institucional. 
+		<br>	<br>
+---->	
+	Acá pueden encontrar el <b> <a href="https://drive.google.com/file/d/1y9bZy_teZyhtcXEZI-kdedY5sWk1T4xe/view?usp=sharing">sílabo oficial del curso</a></b>. <br><br>
+ 
+	<b>Horas de Atención:</b> xxx <br> <br>
+
+	<b>Sesiones Sincrónicas:</b> Las sesiones sincrónicas (presenciales) serán todas planificadas a las 2pm (y serán máximo de dos horas) en los días programados del cronograma (ver abajo). <br> <br>
+	
+</div>
+<br>
+<div>
+
+  <h1>Cronograma y Materiales del Curso</h1>
+
+  <table>
+            <tr>
+                <th>Fecha</th>
+                <th>Tema</th>
+                <th>Tipo de Actividad</th>
+            </tr>
+	{% assign sorted_posts = site.posts | sort:"order" %}
+    {% for post in sorted_posts %}
+     <tr>
+                 <td> {{ post.time }} </t>
+                 {% if post.material-type == 'ppt' %}
+                 	<td> <a href="{{ post.materials }}">{{ post.title }}</a></td>
+                 {% elsif post.material-type == 'no-link' %}	
+                 	<td> {{ post.title }} </td>
+                 {% else %}
+                 	<td align="left"> <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> </td>
+                 {% endif %}
+                 <td> {{ post.lesson-type }} </td> 
+     </tr>   
+    {% endfor %}
+    </table>
+</div>
+
+	---------------------------
+	
+	<br>
+	
+	<b>Actividad Presencial:</b> Las actividades presenciales son por definición interactivas. Deben asumir que en cualquier sesión programada 
+	como actividad presencial ustedes deben venir preparados para interactuar, lo cual significa que dentro de lo posible deben prender
+	audio y video. 
+		<br>	
+	<b>Actividad Autoguiada:</b> Las actividades autoguiadas son por definicion.... autoguiadas. En ellas encontraran TODA la informacion 
+	relevante al tema, desde clases magistrales (que les grabo yo), links de materiales de lectura, y preguntas de lecciones, y las mismas se encuentran en las sesiones de 
+	cada dia (ver cronograma arriba). LEAN TODO CON DETENIMIENTO Y ATENCIÓN. 
+		<br>	
+	<b>Actividad Evaluada:</b> las evaluaciones serán mediante talleres cortos integrados a las actividades del cronograma, o mediante
+	proyectos y presentaciones.  
+		<br>
+	--------------------------
+		<br>	<br>

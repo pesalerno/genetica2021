@@ -1,0 +1,25 @@
+# Setup
+title:        Genética | telesemestre 2020
+tagline:       
+baseurl:      
+url:          https://pesalerno.github.io/genetica-ago-2020/
+paginate:     1
+theme: jekyll-theme-cayman
+future: true
+
+# About/contact
+author:
+ name:       Patricia Salerno
+ url:        https://patriciasalerno.wixsite.com/tepui
+
+# Gems
+plugins:
+  - jekyll-paginate
+  
+# Google services
+google_analytics: UA-144489144-1
+
+#Others
+site:
+ 
+
