@@ -11,7 +11,7 @@ material-type:
 lesson-type: presencial 
 ---
 
-<a href="https://pesalerno.github.io/genetica-ago-2020/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/genetica-ago-2020/main/2020/08/01/2_herencia.html"><button>Siguiente Actividad</button></a>
+<a href="https://pesalerno.github.io/genetica2021/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/2_herencia.html"><button>Siguiente Actividad</button></a>
 
 # Introducción al curso y a genética
 
@@ -32,4 +32,4 @@ La genética es la base de la vida, la reproducción, el desarrollo, la diversid
 > 
 
  
-<a href="https://pesalerno.github.io/genetica-ago-2020/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/genetica-ago-2020/main/2020/08/01/2_herencia.html"><button>Siguiente Actividad</button></a>
+<a href="https://pesalerno.github.io/genetica2021/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/2_herencia.html"><button>Siguiente Actividad</button></a>
