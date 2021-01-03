@@ -1,9 +1,9 @@
 ---
 layout: default
-order: 8
-title:  "Taller de alineamiento"
+order: 9
+title:  "Marcadores y alineamiento"
 date: 2020-08-01
-time:   "viernes 21 Ago"
+time:   "25 – 26 Ene"
 categories: main
 instructor: "Pati"
 materials: ""
@@ -15,7 +15,11 @@ lesson-type: autoguiada, evaluada
 
 # Taller de alineamiento 
 
-
+>---------------------
+> página en construcción, por favor revise más tarde. 
+>
+> ----------------------
+> 
 
 
 > -------------------

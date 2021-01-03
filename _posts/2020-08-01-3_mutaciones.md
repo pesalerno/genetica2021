@@ -3,17 +3,23 @@ layout: default
 order: 3
 title:  "Mutaciones y variabilidad"
 date: 2020-06-11
-time:   "jueves 13 Ago"
+time:   "7 – 8 Ene"
 categories: main
 instructor: "Pati"
 materials: ""
 material-type: 
-lesson-type: autoguiada
+lesson-type: presencial
 ---
 
 <a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/2_herencia.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica2021/"><button>Inicio</button></a>  <a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/4_herencia-2.html"><button>Siguiente Actividad</button></a>
 
 # Mutaciones y variabilidad genética
+
+>---------------------
+> página en construcción, por favor revise más tarde. 
+>
+> ----------------------
+> 
 
 A pesar de que en el proceso de replicación del ADN hay muchos 'controles de calidad', existen muchísimos errores que se perpetuan de una generación a otra. Pero, algunas mutaciones son malas, y otras son buenas. 
 
@@ -21,10 +27,6 @@ A pesar de que en el proceso de replicación del ADN hay muchos 'controles de ca
 
 ![](https://github.com/pesalerno/genetica2021/blob/master/files/diversidad.png?raw=true)<br>
 
->---------------------
-> VIDEO: En [este video](https://www.loom.com/share/a422ad196fb34fab847adc93c3d51fcf) de ~45min les explico en detalle la importancia de las mutaciones así como los distintos tipos de mutaciones. 
-> 
-> ----------------------
-> 
+
 
 <a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/2_herencia.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica2021/"><button>Inicio</button></a>  <a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/4_herencia-2.html"><button>Siguiente Actividad</button></a>
