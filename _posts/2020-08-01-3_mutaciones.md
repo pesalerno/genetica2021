@@ -2,7 +2,7 @@
 layout: default
 order: 3
 title:  "Mutaciones y variabilidad"
-date: 2020-06-11
+date: 2020-08-01
 time:   "7 – 8 Ene"
 categories: main
 instructor: "Pati"
