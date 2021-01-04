@@ -17,6 +17,22 @@ lesson-type: presencial
 
 >Esta primera semana del curso empezamos un poco lento debido al formato del módulo. Sólo tenemos una sesión de bienvenida al curso, y una sesión sincrónica con charla magistral. En enero comenzamos con más contenido y actividades. 
 
+---------
+
+>**FORMATO DEL CURSO:** El curso en general estará estructurado, a nivel semanal, de la siguiente manera: 
+>
+>| Dia       | Actividad                     |
+>|-----------|-------------------------------|
+>| Lunes     | lectura/talleres              |
+>| Martes    | charla magistral              |
+>| Miercoles | charla/actividad              |
+>| Jueves    | repaso/tutoria                |
+>| Viernes   | leccion/charla/presentaciones |
+>
+> **Aunque puede que varíe de una semana a otra, de acuerdo al contenido y de acuerdo a como estamos avanzando, intentaremos mantener esta estructura. 
+Recuerden que cuando tenemos sesiones sincrónicas son todas a las 2pm a menos que se indique lo contrario (y siempre se enviará invitación por el calendario para las sesiones)**
+
+
 La genética es la base de la vida, la reproducción, el desarrollo, la diversidad, y la evolución. Por lo que, el estudio de la genética nos ofrece una ventana no sólo para entender nuestros orígenes y conexiones con el resto de la vida en el planeta, sino que además nos ayuda a entender cómo aprovechar los recursos disponibles en los genes y sus productos derivados. 
 
 ![](https://github.com/pesalerno/genetica2021/blob/main/files/transcription.png?raw=true)<br>
