@@ -11,7 +11,7 @@ material-type:
 lesson-type: presencial
 ---
 
-<a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/2_herencia.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica2021/"><button>Inicio</button></a>  <a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/5_proyectos-1.html"><button>Siguiente Actividad</button></a>
+<a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/2_herencia.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica2021/"><button>Inicio</button></a>  <a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/4_proyectos-1.html"><button>Siguiente Actividad</button></a>
 
 # Mutaciones y variabilidad genética
 
@@ -29,4 +29,4 @@ A pesar de que en el proceso de replicación del ADN hay muchos 'controles de ca
 
 
 
-<a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/2_herencia.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica2021/"><button>Inicio</button></a>  <a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/5_proyectos-1.html"><button>Siguiente Actividad</button></a>
+<a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/2_herencia.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica2021/"><button>Inicio</button></a>  <a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/4_proyectos-1.html"><button>Siguiente Actividad</button></a>
