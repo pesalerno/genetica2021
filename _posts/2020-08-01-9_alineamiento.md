@@ -16,7 +16,7 @@ lesson-type: autoguiada, evaluada
 # Introducción a marcadores genéticos y taller de alineamiento 
 
 >---------------------
-> página en construcción, por favor revise más tarde. 
+> **PÁGINA EN CONSTRUCCIÓN: POR FAVOR REVISE MAS TARDE*. 
 >
 > ----------------------
 > 
