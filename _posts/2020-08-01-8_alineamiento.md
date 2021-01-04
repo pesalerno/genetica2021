@@ -11,9 +11,9 @@ material-type: ""
 lesson-type: autoguiada, evaluada
 ---
 
-<a href="https://pesalerno.github.io/genetica2021/main/2020/06/08/7_geno-feno-2.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica2021/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/genetica2021/main/2020/06/09/9_proyectos-2.html"><button>Siguiente Actividad</button></a>
+<a href="https://pesalerno.github.io/genetica2021/main/2020/06/08/7_geno-feno-2.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica2021/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/genetica2021/main/2020/06/09/12_final.html"><button>Siguiente Actividad</button></a>
 
-# Taller de alineamiento 
+# Introducción a marcadores genéticos y taller de alineamiento 
 
 >---------------------
 > página en construcción, por favor revise más tarde. 
@@ -127,7 +127,7 @@ Segundo, veamos las regiones de "gaps" o vacíos en el alineamiento, e investigu
 
 
  
-<a href="https://pesalerno.github.io/genetica2021/main/2020/06/08/7_geno-feno-2.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica2021/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/genetica2021/main/2020/06/09/9_proyectos-2.html"><button>Siguiente Actividad</button></a>
+<a href="https://pesalerno.github.io/genetica2021/main/2020/06/08/7_geno-feno-2.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica2021/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/genetica2021/main/2020/06/09/12_final.html"><button>Siguiente Actividad</button></a>
 
 
 
