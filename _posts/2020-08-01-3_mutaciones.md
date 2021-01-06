@@ -15,13 +15,9 @@ lesson-type: presencial
 
 # Mutaciones y variabilidad genética
 
->---------------------
-> **PÁGINA EN CONSTRUCCIÓN: POR FAVOR REVISE MAS TARDE*. 
->
-> ----------------------
-> 
 
-A pesar de que en el proceso de replicación del ADN hay muchos 'controles de calidad', existen muchísimos errores que se perpetuan de una generación a otra. Pero, algunas mutaciones son malas, y otras son buenas. 
+
+A pesar de que en el proceso de replicación del ADN hay muchos *'controles de calidad'*, existen muchísimos errores que se perpetuan de una generación a otra. Pero, algunas mutaciones son malas, y otras son buenas. 
 
 **Son las mutaciones lo que dan cabida a la diversidad y la evolución** - si la replicación del ADN fuese 100% fiel, todos seguiríamos siendo organismos unicelulares que no han cambiado desde el orígen de la vida. Las mutaciones pueden agregar variabilidad genética que puede resultar en una mejor adaptacion al ambiente en que se encuentra el organismo. Pero, las mutaciones también pueden producir errores que resulten en malformaciones genéticas, en cáncer, y en abortos. En la clase de hoy aprenderemos acerca de los tipos de mutaciones y sus diversos efectos. 
 
