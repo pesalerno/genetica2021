@@ -27,6 +27,13 @@ A pesar de que en el proceso de replicación del ADN hay muchos 'controles de ca
 
 ![](https://github.com/pesalerno/genetica2021/blob/master/files/diversidad.png?raw=true)<br>
 
-
+>----------------
+>
+>**VIDEO:** En [esta tercera clase](https://www.loom.com/share/fdcf493fe8d64c24b7010a9e674ec870) les explico acerca de los tipos principales de mutaciones y algunas de sus importancias tanto a nivel evolutivo como a nivel de investigación y medicina. 
+>
+> -------------------------
+> **LECTURA:** Para esta clase la lectura asociada del libro es el capítulo 15 del [libro de Klug](https://drive.google.com/file/d/1EYHyd609xFUCAV4ZOnwjq01upw62ktgp/view?usp=sharing). 
+>
+> -----------------------
 
 <a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/2_herencia.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica2021/"><button>Inicio</button></a>  <a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/4_proyectos-1.html"><button>Siguiente Actividad</button></a>
