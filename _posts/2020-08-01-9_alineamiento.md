@@ -3,7 +3,7 @@ layout: default
 order: 9
 title:  "Marcadores y alineamiento"
 date: 2020-08-01
-time:   "25 – 26 Ene"
+time:   "25 - 26 Ene"
 categories: main
 instructor: "Pati"
 materials: ""
