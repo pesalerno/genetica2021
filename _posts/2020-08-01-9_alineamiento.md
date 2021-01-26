@@ -129,11 +129,13 @@ El taller será entregado en dos partes:
 > | Presentación Oral: 10min | JUEVES 28 ENERO 2-4pm |
 >
 >--------------------
-> | Presentación escrita: 3 páginas | SABADO 30 ENERO 6pm |
+> | Presentación escrita (proyecto final): 3 páginas | SABADO 30 ENERO 10 pm |
 >
 >----------------------
  
  En la exposición oral simplemente deben hablarnos de lo que hicieron: su grupo de estudio, el marcador que usaron, las especies/organismos que agregaron, y como se ve el alineamiento en los distintos pasos de la edición. 
+ 
+ >*La presentación escrita es el `Proyecto Final`, el cual se describe en mayor detalle en la siguiente página*
  
  
 <a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/8_geno-feno-2.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica2021/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/10_final.html"><button>Siguiente Actividad</button></a>
