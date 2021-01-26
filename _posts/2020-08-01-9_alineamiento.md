@@ -117,12 +117,21 @@ Segundo, veamos las regiones de "gaps" o vacíos en el alineamiento, e investigu
 
 >--------------------------
 >
->**VIDEO:** En [este video]() de ~11min les doy una introducción a la edición de alineamientos de marcadores ribosomales usando Mesquite. 
+>**VIDEO:** En [este video](https://www.loom.com/share/86bcea7ed032428b99a1b6bfbd9eecff) de ~11min les doy una introducción a la edición de alineamientos de marcadores ribosomales usando Mesquite. 
 >
 >--------------------------
 
+FORMATO DE ENTREGA
 
+El taller sera entregado en dos partes:
 
+>------------------
+> | Presentación Oral: 10min | JUEVES 28 ENERO 2-4pm |
+>
+>--------------------
+> | Presentación escrita: 3 páginas | SABADO 30 ENERO 6pm |
+>
+>----------------------
  
 <a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/8_geno-feno-2.html"><button>Actividad Anterior</button></a>		<a href="https://pesalerno.github.io/genetica2021/"><button>Inicio</button></a>    <a href="https://pesalerno.github.io/genetica2021/main/2020/08/01/10_final.html"><button>Siguiente Actividad</button></a>
 
