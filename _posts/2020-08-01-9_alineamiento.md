@@ -121,7 +121,7 @@ Segundo, veamos las regiones de "gaps" o vacíos en el alineamiento, e investigu
 >
 >--------------------------
 
-FORMATO DE ENTREGA
+## Formato de Entrega del Taller
 
 El taller sera entregado en dos partes:
 
