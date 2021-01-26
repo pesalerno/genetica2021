@@ -27,7 +27,7 @@ En este taller, aprenderemos lo básico acerca de los marcadores genéticos y su
 
 >--------------------------
 >
->**VIDEO:** En [este video]() de ~20min les doy una introducción a los marcadores genéticos y sus usos.
+>**VIDEO:** En [este video](https://www.loom.com/share/c21a0fc3cad24600911cd219b5324970) de ~28min les doy una introducción a los marcadores genéticos y sus usos.
 >
 >--------------------------
 >
@@ -40,10 +40,11 @@ En este taller, aprenderemos lo básico acerca de los marcadores genéticos y su
 ## Comenzando con bajar nuestras secuencias
 
 
-Primero, basado en los grupos taxonómico que escogieron (del primer mini-proyecto), deben bajar un total de 10 secuencias de algun marcador ribosomal. 
+Primero, basado en los grupos taxonómicos que escogieron (del primer mini-proyecto), deben bajar un total de 10 secuencias de algun marcador ribosomal. 
 
 >-----------------------------------------------------
 >RNA ribosomal en procariotas: 23S, 5S y 16S rRNA
+>
 >RNA ribosomal en eucariotas:  16S, 12S, 5S, 28S, 18S,
 >
 >--------------------------------
@@ -116,7 +117,7 @@ Segundo, veamos las regiones de "gaps" o vacíos en el alineamiento, e investigu
 
 >--------------------------
 >
->**VIDEO:** En [este video](https://www.loom.com/share/86bcea7ed032428b99a1b6bfbd9eecff) de ~11min les doy una introducción a la edición de alineamientos de marcadores ribosomales usando Mesquite. 
+>**VIDEO:** En [este video]() de ~11min les doy una introducción a la edición de alineamientos de marcadores ribosomales usando Mesquite. 
 >
 >--------------------------
 
