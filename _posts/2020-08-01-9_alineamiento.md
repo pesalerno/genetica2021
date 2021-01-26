@@ -15,18 +15,7 @@ lesson-type: autoguiada, evaluada
 
 # Introducción a marcadores genéticos y taller de alineamiento 
 
->---------------------
-> **PÁGINA EN CONSTRUCCIÓN: POR FAVOR REVISE MAS TARDE*. 
->
-> ----------------------
-> 
 
-
-> -------------------
-> 
-> **VIERNES 9-10:30am** | Sesión Sincrónica para discutir el contenido de las dos actividades anteriores (*'Genotipo a Fenotipo'*) y para discutir cómo funcionará el taller de alineamiento. 
-> 
-> ------------------------ 
  
  
 Los alineamientos de genes sirven para muchas cosas: nos ayudan a reconstruir historias evolutivas de grupos taxonómicos, nos permiten identificar "variantes" clínicos para identificar alelos responsables de ciertas patologías/cánceres, nos permiten describir poblaciones de animales en peligro de extinción y su capacidad adaptativa, entre muchas otras aplicaciones. 
@@ -38,7 +27,7 @@ En este taller, aprenderemos lo básico acerca de los marcadores genéticos y su
 
 >--------------------------
 >
->**VIDEO:** En [este video](https://www.loom.com/share/38d12458cff845ca8fc47d7ab8302e1a) de ~20min les doy una introducción a los marcadores genéticos y sus usos.
+>**VIDEO:** En [este video]() de ~20min les doy una introducción a los marcadores genéticos y sus usos.
 >
 >--------------------------
 >
@@ -51,7 +40,14 @@ En este taller, aprenderemos lo básico acerca de los marcadores genéticos y su
 ## Comenzando con bajar nuestras secuencias
 
 
-Primero, escojan su grupo de estudio, el cual debe ser relativamente "pequeño", respecto al árbol de la vida: un género, una especie, como mucho una familia. De ese grupo taxonómico que escogieron, deben bajar un total de 10 secuencias del marcador `16S rRNA`, un fragmento ribosomal codificado por la mitocondria, y el cual es comúnmente secuenciado para una gran variedad de eucariotas. 
+Primero, basado en los grupos taxonómico que escogieron (del primer mini-proyecto), deben bajar un total de 10 secuencias de algun marcador ribosomal. 
+
+>-----------------------------------------------------
+>RNA ribosomal en procariotas: 23S, 5S y 16S rRNA
+>RNA ribosomal en eucariotas:  16S, 12S, 5S, 28S, 18S,
+>
+>--------------------------------
+
 
 
 Segundo, vayan a la [página de NCBI](https://www.ncbi.nlm.nih.gov/nuccore/) donde pueden acceder a las secuencias genéticas disponibles públicamente. Allí, deben hacer una búsqueda, en el caso mío, yo busqué `16S Pseudacris`, el cual es un género de ranas arborícolas de Norteamérica. 
@@ -62,9 +58,9 @@ Cuando salen los resultados, ven que hay un montón!! ademas de eso, noten los n
 
 
 
-Entonces, intenten escoger casi todos que únicamente contengan 16s, pero si tienen alguno que tenga más genes (tanto `downstream` como `upstream`), entonces lo pueden agregar. Básicamente, lo que ocurre es que a veces la gente amplifica y secuencia segmentos mitocondriales bastante grandes, por lo que verán que los nombres de las secuencias pueden contener genes adyacentes. 
+Entonces, intenten escoger casi todos que únicamente contengan 16s, pero si tienen alguno que tenga más genes, entonces lo pueden agregar. Básicamente, lo que ocurre es que a veces la gente amplifica y secuencia segmentos mitocondriales bastante grandes, por lo que verán que los nombres de las secuencias pueden contener genes adyacentes. 
 
->Para referencia, así se ve el genoma mitocondrial de los eucariotas (es decir, de ustedes): 
+>Para referencia, así se ve un genoma mitocondrial de eucariotas (es decir, de ustedes): 
 >
 >![](https://github.com/pesalerno/genetica2021/blob/master/files/mtDNA-genome.png?raw=true)<br>
 >
