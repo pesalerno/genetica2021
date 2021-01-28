@@ -126,10 +126,10 @@ Segundo, veamos las regiones de "gaps" o vacíos en el alineamiento, e investigu
 El taller será entregado en dos partes:
 
 >------------------
-> | Presentación Oral: 10min | JUEVES 28 ENERO 2-4pm |
+> | Presentación Oral: 10min | VIERNES 28 ENERO 2-4pm | 
 >
 >--------------------
-> | Presentación escrita (proyecto final): 3 páginas | SABADO 30 ENERO 10 pm |
+> | Presentación escrita (proyecto final): 3 páginas | DOMINGO 30 ENERO 10 pm |
 >
 >----------------------
  
